@@ -41,10 +41,13 @@ https://mylink.com
 <!-- Comments are like HTML comments -->
 <!-- ## Images - similar to links but use '!'
 ![tomolor](https://pixelprowess.com/i/stargazers/tomolor.png)
--->
 
 ## Image as a link to another page
-[![tomolor](https://pixelprowess.com/i/stargazers/tomolor.png)]  (http://mylink.com)
+[![tomolor](https://pixelprowess.com/i/stargazers/tomolor.png)](http://mylink.com)
+-->
+
+## Image
+<img src="https://pixelprowess.com/i/stargazers/tomolor.png" width=100px />
 
 ## Code
 Simple code in one line - the key on the keyboard is the one to the left of '1'
